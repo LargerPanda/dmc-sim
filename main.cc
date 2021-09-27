@@ -1,6 +1,8 @@
 #include <iostream>
 #include <time.h>
 #include <cstdlib>
+#include "libglusterfs/call-stub.h"
+
 using namespace std;
 
 const int DefaultSize = 1000000;
